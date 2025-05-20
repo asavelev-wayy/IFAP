@@ -1,2 +1,2 @@
-# IDAP
-IDAP - Iterative Divergence-Aware Pruning
+# IFAP
+IFAP - Iterative Flow-Aware Pruning
